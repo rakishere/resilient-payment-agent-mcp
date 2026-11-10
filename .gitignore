@@ -1,1 +1,9 @@
-design/
+info.txt
+.env
+.venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+outage.flag
+.aws-sam/
+*.zip
